@@ -6,6 +6,8 @@ https://drive.google.com/drive/folders/1w7s86djdsJIdmEWO4Cyf_ukkQpK6Qmgb?usp=sha
 #INFO
 ```
 https://miroslawzelent.pl/kurs-php/
+http://www.newthinktank.com/2019/12/learn-php-one-video/
+
 ```
 ```
 POWINIENEŚ ZNAĆ

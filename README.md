@@ -1,57 +1,16 @@
 #### 01 BE_intro (27.01.2020) 
 #### 02 FE_Recap (3.02.2020)
-https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sharing
-### INFO
-Git: https://youtu.be/bdtaspSmFCk | https://youtu.be/LEystZRF8fQ
-
-config --global user.name uzyytkownik
-
-config --global user.email nowy_email
-
-    "terminal.integrated.shell.windows":"C:\\Program Files\\Git\\bin\\bash.exe",
-
-
-
-```
-Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każdy w odrębnym commicie odpowiednio opisując zmianę.
-- zdefiniuj szare tło strony
-- wyświetl alert z napisem 'Hello'
-kazdą zmianę zacommituj
-
-Z0202 Sprawdź czy wpisany w pole tekstowe tekst ma co najmniej 5 znaków i zawiera co najmniej jedną liczbę
-
-Z0203 Znajdź i sklonuj zdalne repoozytorium 'no-framework-tutorial' użytkownika 'PatrickLouys'
-
-Z0205 Dadaj szablon strony, stworz plik css (pusty), stwórz plik app.js, stworz plik, skrypt.js, stworz plik dodatkowy.css i poproś o pull request
-```
-```
-SPRAWDZIAN HTML,CSS,JS:
-
-https://pasja-informatyki.pl/programowanie-webowe/test/javascript-na-egzamin/
-https://pasja-informatyki.pl/programowanie-webowe/test/przeglad-css/
-
-SPRAWDZIAN PUNKTACJA:
-
-(0-9=1)       (10-13=2)      (14-17=3) 
-(18-22=4)     (23-27=5)      (28-29=6)
-
-
-https://youtu.be/arJ6uikJjJU
-```
-
-```
-POWINIENEŚ ZNAĆ
-- CMD: cd, dir, mkdir, touch
-- GIT: init, clone, status, log, add, commit
-- GIT adv: branch, checkout, merge, rebase,
-- GIT adv: remote, pull, push
-```
 ## 03 PHP_Intro (10.02.2020)
 https://drive.google.com/drive/folders/1w7s86djdsJIdmEWO4Cyf_ukkQpK6Qmgb?usp=sharing
 #INFO
+https://miroslawzelent.pl/kurs-php/
 
 ```
 POWINIENEŚ ZNAĆ
+- ZMIENNE ($)
+- ŁAŃCUCHY ("",'')
+- KONKATENACJA (.)
+- DZIAŁANIA MATEMATYCZNE
 
 ```
 
@@ -73,7 +32,7 @@ POWINIENEŚ ZNAĆ
 
 #----------Links
 
-https://github.com/infrmtktl/ GOOGLE STUDENTS: https://drive.google.com/open?id=1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe
+https://github.com/infrmtktl/ GOOGLE DRIVE STUDENTS: https://drive.google.com/open?id=1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 

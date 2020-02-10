@@ -15,6 +15,8 @@ PRJ0301 https://codepen.io/infrmtktl/pen/LYVVYda
 
 http://animateria.pl/infrmtktl/action.php
 
+http://animateria.pl/infrmtktl/allvarscheck.php
+
 ```
 ZAD 0300 Utwórz puste zdalne repozytorium i wyślij na niego zmiany dokonane lokalnie.
 ZAD 0301 Udostępnij jako zdalne repozytorium publiczne GIT zadanie domowe ZAD0101

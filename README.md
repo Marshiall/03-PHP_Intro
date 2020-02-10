@@ -5,6 +5,7 @@ https://drive.google.com/drive/folders/1w7s86djdsJIdmEWO4Cyf_ukkQpK6Qmgb?usp=sha
 
 #INFO
 ```
+https://www.php.net/manual
 https://miroslawzelent.pl/kurs-html/pozostale-kontrolki-formularzy/
 https://miroslawzelent.pl/kurs-php/
 http://www.newthinktank.com/2019/12/learn-php-one-video/

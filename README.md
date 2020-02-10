@@ -7,7 +7,6 @@ https://drive.google.com/drive/folders/1w7s86djdsJIdmEWO4Cyf_ukkQpK6Qmgb?usp=sha
 ```
 https://miroslawzelent.pl/kurs-php/
 http://www.newthinktank.com/2019/12/learn-php-one-video/
-
 ```
 ```
 POWINIENEŚ ZNAĆ
@@ -15,7 +14,6 @@ POWINIENEŚ ZNAĆ
 - ŁAŃCUCHY ("",'')
 - KONKATENACJA (.)
 - DZIAŁANIA MATEMATYCZNE
-
 ```
 
 #### 04 PHP (17.09.2019)

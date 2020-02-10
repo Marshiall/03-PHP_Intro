@@ -11,7 +11,8 @@ https://miroslawzelent.pl/kurs-php/
 http://www.newthinktank.com/2019/12/learn-php-one-video/
 ```
 
-PRJ0301 https://codepen.io/infrmtktl/pen/LYVVYda
+PR0301 https://codepen.io/infrmtktl/pen/LYVVYda
+PR0302 https://codepen.io/infrmtktl/pen/wvaaGmZ
 
 http://animateria.pl/infrmtktl/action.php
 

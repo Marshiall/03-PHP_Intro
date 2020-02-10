@@ -20,7 +20,10 @@ http://animateria.pl/infrmtktl/allvarscheck.php
 ```
 ZAD 0300 Utwórz puste zdalne repozytorium i wyślij na niego zmiany dokonane lokalnie.
 ZAD 0301 Udostępnij jako zdalne repozytorium publiczne GIT zadanie domowe ZAD0101 (OCENA)
-ZAD 0302 Zaprojektuj i ostyluj formularz konfiguracyjny zakupu lub wynajmu samochodu. Podsumowanie z obliczeniem ceny wyświetl na stronie podsumowanie.php. Wersja trudniejsza (uzyj obrazów do zilustrowania dokonanych wyborów)
+ZAD 0302 Zaprojektuj i ostyluj formularz konfiguracyjny zakupu lub wynajmu samochodu. 
+Podsumowanie z obliczeniem ceny wyświetl na stronie podsumowanie.php. 
+Umieść formularz w tabelce lub divach w układzie tabeli.
+Wersja trudniejsza (uzyj obrazów do zilustrowania dokonanych wyborów)
 ```
 
 ```

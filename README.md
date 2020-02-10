@@ -11,7 +11,7 @@ https://miroslawzelent.pl/kurs-php/
 http://www.newthinktank.com/2019/12/learn-php-one-video/
 ```
 ```
-ZAD 0300 Utwórz puste zdalne repozytorium i wyślij na niego zmiany.
+ZAD 0300 Utwórz puste zdalne repozytorium i wyślij na niego zmiany dokonane lokalnie.
 ZAD 0301 Udostępnij jako zdalne repozytorium publiczne GIT zadanie domowe ZAD0101
 ```
 

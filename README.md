@@ -23,7 +23,16 @@ ZAD 0300 Utwórz puste zdalne repozytorium i wyślij na niego zmiany dokonane lo
 
 ZAD 0301 Udostępnij jako zdalne repozytorium publiczne GIT zadanie domowe ZAD0101 (OCENA)
 
-ZAD 0302 Zaprojektuj i ostyluj formularz konfiguracyjny zakupu lub wynajmu samochodu. 
+ZAD 0302 Zaprojektuj i ostyluj formularz konfiguracyjny zakupu lub wynajmu samochodu.
+
+- dane klienta (imie, nazwisko, e-mail)
+- Marka samochodu
+- Wersja nadwozie
+- Rodzaj silnika
+- Kolor
+- Wersja wyposażenia
+- Dodatki
+
 Podsumowanie z obliczeniem ceny wyświetl na tej samej stronie. 
 Dokonaj wstępnej walidacji (sprawdzenie czy wymagane pola są wypełnione).
 Umieść formularz w tabelce lub divach w układzie tabeli.

@@ -10,10 +10,11 @@ http://www.newthinktank.com/2019/12/learn-php-one-video/
 ```
 ```
 POWINIENEŚ ZNAĆ
-- ZMIENNE ($)
-- ŁAŃCUCHY ("",'')
-- KONKATENACJA (.)
-- DZIAŁANIA MATEMATYCZNE
+- HTML: Forms
+- PHP: ZMIENNE ($)
+- PHP: ŁAŃCUCHY ("",'')
+- PHP: KONKATENACJA (.)
+- PHP: DZIAŁANIA MATEMATYCZNE
 ```
 
 #### 04 PHP (17.09.2019)
